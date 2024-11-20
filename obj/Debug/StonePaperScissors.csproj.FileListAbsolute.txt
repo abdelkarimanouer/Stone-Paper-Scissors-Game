@@ -1,0 +1,22 @@
+C:\Users\DELL\Desktop\Programming\C# Projects\StonePaperScissors\bin\Debug\StonePaperScissors.exe.config
+C:\Users\DELL\Desktop\Programming\C# Projects\StonePaperScissors\bin\Debug\StonePaperScissors.exe
+C:\Users\DELL\Desktop\Programming\C# Projects\StonePaperScissors\bin\Debug\StonePaperScissors.pdb
+C:\Users\DELL\Desktop\Programming\C# Projects\StonePaperScissors\obj\Debug\StonePaperScissors.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Programming\C# Projects\StonePaperScissors\obj\Debug\StonePaperScissors.Properties.Resources.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\StonePaperScissors\obj\Debug\StonePaperScissors.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\Programming\C# Projects\StonePaperScissors\obj\Debug\StonePaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Programming\C# Projects\StonePaperScissors\obj\Debug\StonePaperScissors.exe
+C:\Users\DELL\Desktop\Programming\C# Projects\StonePaperScissors\obj\Debug\StonePaperScissors.pdb
+C:\Users\DELL\Desktop\Programming\C# Projects\StonePaperScissors\obj\Debug\StonePaperScissors.frmGame.resources
+C:\Users\DELL\Desktop\Programming\C# Projects\StonePaperScissors\obj\Debug\StonePaperScissors.frmStart.resources
+D:\Programmer\C# .net Projects\StonePaperScissors\bin\Debug\StonePaperScissors.exe.config
+D:\Programmer\C# .net Projects\StonePaperScissors\bin\Debug\StonePaperScissors.exe
+D:\Programmer\C# .net Projects\StonePaperScissors\bin\Debug\StonePaperScissors.pdb
+D:\Programmer\C# .net Projects\StonePaperScissors\obj\Debug\StonePaperScissors.csproj.AssemblyReference.cache
+D:\Programmer\C# .net Projects\StonePaperScissors\obj\Debug\StonePaperScissors.frmGame.resources
+D:\Programmer\C# .net Projects\StonePaperScissors\obj\Debug\StonePaperScissors.frmStart.resources
+D:\Programmer\C# .net Projects\StonePaperScissors\obj\Debug\StonePaperScissors.Properties.Resources.resources
+D:\Programmer\C# .net Projects\StonePaperScissors\obj\Debug\StonePaperScissors.csproj.GenerateResource.cache
+D:\Programmer\C# .net Projects\StonePaperScissors\obj\Debug\StonePaperScissors.csproj.CoreCompileInputs.cache
+D:\Programmer\C# .net Projects\StonePaperScissors\obj\Debug\StonePaperScissors.exe
+D:\Programmer\C# .net Projects\StonePaperScissors\obj\Debug\StonePaperScissors.pdb
