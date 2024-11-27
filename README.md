@@ -15,9 +15,8 @@ The computer will make a random choice.
 The result will be displayed instantly, and the win counters for both sides will be updated.
 
 ## Technologies Used
-Programming Language: C#
-Graphical Interface: Windows Forms
-Image and Resource Management: Resources
+Programming Language: C#.
+Graphical Interface: Windows Forms.
 
 ## Notes
 The code is simple and beginner-friendly.
