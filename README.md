@@ -1,4 +1,5 @@
 # Stone Paper Scissors Game
+
 The "Stone Paper Scissors" game is a simple project built using C# and Windows Forms. 
 It is a fun challenge between the player and the computer, where each selects one of three options (Stone, Paper, or Scissors),
 and the winner is determined based on the traditional rules of the game.
